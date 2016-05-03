@@ -1,0 +1,5 @@
+--dump / backup
+mongodump --archive=salestockDB.20160502.archive --db salestockDB
+
+--restore
+mongorestore --archive=salestockDB.20160502.archive --db salestockDB
