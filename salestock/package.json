@@ -1,0 +1,16 @@
+{
+  "name": "salestock",
+  "version": "1.0.0",
+  "description": "Simple app for managing item and category.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"express": "*",
+  	"body-parser": "*",
+  	"mongoose": "*"
+  },
+  "author": "Syaiful Ma`rrup",
+  "license": "ISC"
+}
