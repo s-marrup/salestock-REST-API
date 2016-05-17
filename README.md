@@ -1,4 +1,4 @@
-# salestocksalestock-REST-API
+# salestock-REST-API
 Simple REST API by using node.js and mongoDB for managing category and item.
 
 ## Folder Details
